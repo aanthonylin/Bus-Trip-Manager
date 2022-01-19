@@ -1,0 +1,26 @@
+/*
+Author: 42
+
+Note:
+	As you can tell, I am terrible at this. I do not like front-end and I do not know CSS.
+*/
+
+body
+{
+	background-color: #e6e6ff;
+}
+tr:hover
+{
+	background-color: #ddd;
+}
+td 
+{
+	text-align: center;
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+button
+{
+	background:linear-gradient(to bottom, #e6e6ff 5%, #a4a4e0 100%);
+	border: 1px;
+}
